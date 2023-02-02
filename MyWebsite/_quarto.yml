@@ -1,10 +1,10 @@
 project:
   type: website
-  output-dir: docs
+  output-dir: _docs
 
 website:
   title: "MyWebsite"
-  navbar:
+  navbar: 
     left:
       - href: index.qmd
         text: Home
